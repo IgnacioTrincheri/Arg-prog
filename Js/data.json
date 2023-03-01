@@ -1,0 +1,29 @@
+[{
+    "sex": "masculino",
+    "name": {
+        "first": "Juan",
+        "middle": "Ignacio",
+        "last": "Trincheri"
+    },
+    "location": {
+        "street": {
+            "number": 1234,
+            "name": "Av. ejemplo"
+        },
+        "city": "Córdoba",
+        "state": "Córdoba",
+        "country": "Argentina",
+        "postcode": "5014",
+        "timezone": {
+            "offset": "UTC-3",
+            "description": "Buenos Aires,CABA"
+        }
+    },
+    "email": "ignatrincheri@gmail.com",
+    "dob": {
+        "date": "31-03-2000",
+        "age": 22
+    },
+    "cell": "+54 9 351 2960-715",
+    "picture": ".//Img/fotoPerfil.jpg"
+}]
